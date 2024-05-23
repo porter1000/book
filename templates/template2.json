@@ -1,0 +1,24 @@
+{
+    "background": "url('background2.jpg')",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Book Title",
+        "left": 80,
+        "top": 70,
+        "fontSize": 50,
+        "fill": "#ffffff",
+        "fontFamily": "Georgia"
+      },
+      {
+        "type": "text",
+        "content": "Author Name",
+        "left": 80,
+        "top": 200,
+        "fontSize": 35,
+        "fill": "#ffffff",
+        "fontFamily": "Georgia"
+      }
+    ]
+  }
+  

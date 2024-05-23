@@ -1,0 +1,24 @@
+{
+    "background": "url('background1.jpg')",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Title",
+        "left": 100,
+        "top": 50,
+        "fontSize": 40,
+        "fill": "#000000",
+        "fontFamily": "Arial"
+      },
+      {
+        "type": "text",
+        "content": "Author",
+        "left": 100,
+        "top": 150,
+        "fontSize": 30,
+        "fill": "#000000",
+        "fontFamily": "Arial"
+      }
+    ]
+  }
+  
